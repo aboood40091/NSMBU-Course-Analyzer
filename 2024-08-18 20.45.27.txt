@@ -1,0 +1,3129 @@
+Loading: SARC\1-1.sarc
+Visitable areas tree:
+{(0, 0): {(2, 0), (1, 0)}, (2, 0): {(0, 0)}, (1, 0): {(0, 0)}}
+
+Loading: SARC\1-13.sarc
+Visitable areas tree:
+{(0, 0): {(1, 0)}, (1, 0): {(1, 2)}, (1, 2): {(0, 0), (1, 1)}, (1, 1): {(1, 2)}}
+
+Loading: SARC\1-2.sarc
+Visitable areas tree:
+{(0, 0): {(1, 0)}, (1, 0): {(0, 1), (1, 2), (0, 0), (2, 0), (1, 0), (1, 1)}, (1, 1): {(1, 0)}, (2, 0): {(1, 0)}, (0, 1): set(), (1, 2): {(1, 0)}}
+
+Loading: SARC\1-21.sarc
+Visitable areas tree:
+{(0, 0): {(1, 0)}, (1, 0): set()}
+
+Loading: SARC\1-23.sarc
+Visitable areas tree:
+{(0, 0): {(0, 1), (1, 0)}, (0, 1): {(0, 0)}, (1, 0): {(2, 0)}, (2, 0): set()}
+
+Loading: SARC\1-25.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: SARC\1-26.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: SARC\1-27.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: SARC\1-28.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: SARC\1-29.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: SARC\1-3.sarc
+Visitable areas tree:
+{(0, 0): {(1, 0), (1, 3)}, (1, 0): {(0, 0)}, (1, 3): {(0, 0)}}
+
+Loading: SARC\1-30.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: SARC\1-31.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: SARC\1-32.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: SARC\1-33.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: SARC\1-34.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: SARC\1-39.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: SARC\1-4.sarc
+Visitable areas tree:
+{(0, 0): {(0, 1)}, (0, 1): {(0, 0)}}
+
+Loading: SARC\1-41.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: SARC\1-46.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: SARC\1-47.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: SARC\1-48.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: SARC\1-49.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: SARC\1-5.sarc
+Visitable areas tree:
+{(0, 0): {(0, 1)}, (0, 1): {(0, 0)}}
+
+Loading: SARC\1-55.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: SARC\1-58.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: SARC\11-1.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: SARC\11-2.sarc
+Visitable areas tree:
+{(0, 0): {(1, 1)}, (1, 1): set()}
+Unvisitable areas:
+(2, 0)
+
+Loading: SARC\11-3.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: SARC\11-4.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: SARC\11-5.sarc
+Visitable areas tree:
+{(0, 0): {(1, 0)}, (1, 0): {(2, 0)}, (2, 0): set()}
+
+Loading: SARC\11-6.sarc
+Visitable areas tree:
+{(0, 0): {(1, 0)}, (1, 0): set()}
+Unvisitable areas:
+(2, 0)
+
+Loading: SARC\11-7.sarc
+Visitable areas tree:
+{(0, 0): {(1, 0)}, (1, 0): {(2, 0)}, (2, 0): {(3, 0)}, (3, 0): set()}
+
+Loading: SARC\11-8.sarc
+Visitable areas tree:
+{(0, 0): {(0, 1)}, (0, 1): {(0, 2)}, (0, 2): set()}
+Unvisitable areas:
+(1, 0)
+(1, 1)
+(1, 2)
+
+Loading: SARC\12-1.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: SARC\12-2.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: SARC\12-3.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: SARC\12-4.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: SARC\13-1.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: SARC\13-2.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: SARC\13-3.sarc
+Visitable areas tree:
+{(0, 0): set()}
+Unvisitable areas:
+(1, 0)
+
+Loading: SARC\13-4.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: SARC\13-5.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: SARC\13-6.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: SARC\13-7.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: SARC\13-8.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: SARC\14-1.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: SARC\14-2.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: SARC\14-4.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: SARC\14-5.sarc
+Visitable areas tree:
+{(0, 0): set()}
+Unvisitable areas:
+(1, 0)
+(2, 0)
+
+Loading: SARC\14-6.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: SARC\14-7.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: SARC\14-8.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: SARC\15-1.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: SARC\15-2.sarc
+Visitable areas tree:
+{(0, 0): set()}
+Unvisitable areas:
+(1, 0)
+
+Loading: SARC\15-3.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: SARC\15-4.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: SARC\15-5.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: SARC\15-6.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: SARC\15-7.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: SARC\16-1.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: SARC\16-2.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: SARC\16-3.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: SARC\16-4.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: SARC\16-5.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: SARC\16-6.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: SARC\16-7.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: SARC\16-8.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: SARC\17-1.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: SARC\17-2.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: SARC\17-3.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: SARC\17-4.sarc
+Visitable areas tree:
+{(0, 1): set()}
+
+Loading: SARC\17-5.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: SARC\17-6.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: SARC\18-1.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: SARC\18-2.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: SARC\18-3.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: SARC\18-4.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: SARC\18-5.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: SARC\18-6.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: SARC\18-7.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: SARC\18-8.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: SARC\2-1.sarc
+Visitable areas tree:
+{(0, 0): {(0, 1)}, (0, 1): {(0, 0)}}
+
+Loading: SARC\2-14.sarc
+Visitable areas tree:
+{(0, 0): {(0, 1), (1, 0)}, (1, 0): {(0, 0)}, (0, 1): {(0, 0)}}
+
+Loading: SARC\2-2.sarc
+Visitable areas tree:
+{(0, 0): {(1, 0)}, (1, 0): {(1, 1)}, (1, 1): {(1, 2)}, (1, 2): {(0, 0), (1, 1)}}
+
+Loading: SARC\2-21.sarc
+Visitable areas tree:
+{(0, 0): {(0, 1)}, (0, 1): {(0, 2)}, (0, 2): {(0, 3), (1, 0), (0, 4)}, (0, 3): {(0, 2)}, (0, 4): {(0, 2)}, (1, 0): set()}
+
+Loading: SARC\2-23.sarc
+Visitable areas tree:
+{(0, 0): {(0, 1), (1, 0), (0, 2)}, (1, 0): {(2, 0)}, (2, 0): set(), (0, 1): {(0, 0)}, (0, 2): {(0, 0)}}
+
+Loading: SARC\2-25.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: SARC\2-26.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: SARC\2-27.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: SARC\2-28.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: SARC\2-3.sarc
+Visitable areas tree:
+{(0, 0): {(1, 0)}, (1, 0): {(1, 2), (0, 0), (0, 1), (1, 1)}, (1, 1): {(1, 0)}, (0, 1): {(1, 0)}, (1, 2): {(1, 0)}}
+
+Loading: SARC\2-32.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: SARC\2-33.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: SARC\2-34.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: SARC\2-4.sarc
+Visitable areas tree:
+{(0, 0): {(2, 0), (1, 0), (1, 1)}, (1, 1): {(0, 0)}, (2, 0): {(0, 0)}, (1, 0): set()}
+
+Loading: SARC\2-5.sarc
+Visitable areas tree:
+{(0, 0): {(0, 1)}, (0, 1): {(0, 0)}}
+
+Loading: SARC\2-55.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: SARC\2-56.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: SARC\2-57.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: SARC\2-6.sarc
+Visitable areas tree:
+{(0, 0): {(1, 0)}, (1, 0): {(0, 0)}}
+
+Loading: SARC\3-1.sarc
+Visitable areas tree:
+{(0, 0): {(1, 0)}, (1, 0): {(0, 0)}}
+
+Loading: SARC\3-15.sarc
+Visitable areas tree:
+{(0, 0): {(1, 0)}, (1, 0): {(0, 1)}, (0, 1): set()}
+
+Loading: SARC\3-2.sarc
+Visitable areas tree:
+{(0, 0): {(1, 0)}, (1, 0): {(1, 2), (1, 0), (0, 0), (1, 1)}, (1, 1): {(1, 0)}, (1, 2): {(1, 0)}}
+
+Loading: SARC\3-20.sarc
+Warning: File 0, area 0: NextGoto 3 leads to the same file, but uses file ID explicitly instead of 0.
+Warning: File 0, area 1: NextGoto 5 leads to the same file, but uses file ID explicitly instead of 0.
+Visitable areas tree:
+{(0, 0): {(0, 1)}, (0, 1): {(0, 2)}, (0, 2): {(0, 3)}, (0, 3): {(1, 0), (1, 1)}, (1, 1): set(), (1, 0): set()}
+
+Loading: SARC\3-21.sarc
+Visitable areas tree:
+{(0, 0): {(1, 0)}, (1, 0): {(1, 0), (1, 1)}, (1, 1): {(2, 0), (1, 1)}, (2, 0): set()}
+
+Loading: SARC\3-23.sarc
+Visitable areas tree:
+{(0, 0): {(0, 1)}, (0, 1): {(0, 3), (0, 2)}, (0, 2): {(1, 0)}, (1, 0): {(2, 0)}, (2, 0): set(), (0, 3): {(0, 1)}}
+
+Loading: SARC\3-25.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: SARC\3-3.sarc
+Visitable areas tree:
+{(0, 0): {(1, 0)}, (1, 0): {(2, 0)}, (2, 0): {(1, 0)}}
+
+Loading: SARC\3-32.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: SARC\3-33.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: SARC\3-34.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: SARC\3-4.sarc
+Visitable areas tree:
+{(0, 0): {(2, 0), (1, 0)}, (2, 0): {(0, 0)}, (1, 0): {(0, 0)}}
+
+Loading: SARC\3-5.sarc
+Visitable areas tree:
+{(0, 0): {(1, 0)}, (1, 0): {(0, 0), (1, 1)}, (1, 1): {(1, 0)}}
+
+Loading: SARC\3-55.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: SARC\4-1.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: SARC\4-16.sarc
+Visitable areas tree:
+{(0, 0): {(0, 1)}, (0, 1): {(0, 0)}}
+
+Loading: SARC\4-2.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: SARC\4-20.sarc
+Visitable areas tree:
+{(0, 0): {(0, 1)}, (0, 1): {(0, 2), (0, 7)}, (0, 2): {(0, 3), (0, 5)}, (0, 5): set(), (0, 3): {(0, 8), (0, 10), (0, 4)}, (0, 4): {(0, 9), (0, 6), (1, 0)}, (0, 6): {(1, 1)}, (1, 1): set(), (1, 0): set(), (0, 9): set(), (0, 8): set(), (0, 10): set(), (0, 7): set()}
+Unvisitable areas:
+(2, 0)
+(2, 1)
+(2, 2)
+(2, 3)
+(2, 4)
+(2, 5)
+(2, 6)
+(2, 7)
+(2, 8)
+
+Loading: SARC\4-21.sarc
+Visitable areas tree:
+{(0, 0): {(1, 0)}, (1, 0): {(0, 0)}}
+
+Loading: SARC\4-23.sarc
+Visitable areas tree:
+{(0, 0): {(0, 1), (1, 0), (0, 2)}, (1, 0): {(2, 0)}, (2, 0): set(), (0, 1): {(0, 0)}, (0, 2): {(0, 0)}}
+
+Loading: SARC\4-25.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: SARC\4-3.sarc
+Visitable areas tree:
+{(0, 0): {(0, 1), (0, 2)}, (0, 2): {(0, 0)}, (0, 1): {(0, 0)}}
+
+Loading: SARC\4-32.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: SARC\4-33.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: SARC\4-34.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: SARC\4-4.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: SARC\4-5.sarc
+Visitable areas tree:
+{(0, 0): {(1, 0)}, (1, 0): {(0, 0), (0, 2)}, (0, 2): {(1, 0)}}
+
+Loading: SARC\4-55.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: SARC\4-56.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: SARC\4-57.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: SARC\5-1.sarc
+Visitable areas tree:
+{(0, 0): {(1, 0), (1, 1)}, (1, 0): {(0, 0)}, (1, 1): {(0, 0)}}
+
+Loading: SARC\5-17.sarc
+Visitable areas tree:
+{(0, 0): {(1, 1)}, (1, 1): set()}
+
+Loading: SARC\5-2.sarc
+Visitable areas tree:
+{(0, 0): {(2, 0), (1, 0), (0, 0)}, (1, 0): {(0, 0)}, (2, 0): {(0, 0)}}
+
+Loading: SARC\5-20.sarc
+Warning: Trying to visit file 3 nextGoto 16, but nextGoto does not exist!
+Warning: File 1, area 2: NextGoto 10 leads to the same file, but uses file ID explicitly instead of 0.
+Visitable areas tree:
+{(0, 0): {(1, 2), (1, 4), (2, 0), (1, 0), (1, 1)}, (1, 4): {(0, 0)}, (1, 2): {(1, 3)}, (1, 3): {(3, 1)}, (3, 1): set(), (2, 0): {(3, 0)}, (3, 0): set(), (1, 0): set(), (1, 1): {(0, 0)}}
+
+Loading: SARC\5-21.sarc
+Visitable areas tree:
+{(0, 2): {(0, 0)}, (0, 0): {(0, 1), (0, 3)}, (0, 1): {(1, 0)}, (1, 0): set(), (0, 3): {(0, 1)}}
+
+Loading: SARC\5-23.sarc
+Visitable areas tree:
+{(0, 0): {(2, 0), (1, 0), (1, 1)}, (1, 0): {(0, 0)}, (2, 0): {(3, 0)}, (3, 0): set(), (1, 1): {(0, 0)}}
+
+Loading: SARC\5-3.sarc
+Visitable areas tree:
+{(0, 0): {(0, 1), (0, 2)}, (0, 1): set(), (0, 2): {(0, 0)}}
+
+Loading: SARC\5-32.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: SARC\5-33.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: SARC\5-34.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: SARC\5-37.sarc
+Visitable areas tree:
+{(0, 0): {(0, 1)}, (0, 1): {(1, 0)}, (1, 0): set()}
+
+Loading: SARC\5-4.sarc
+Visitable areas tree:
+{(0, 0): {(0, 1), (0, 3)}, (0, 1): {(0, 0)}, (0, 3): {(0, 2)}, (0, 2): set()}
+
+Loading: SARC\5-5.sarc
+Visitable areas tree:
+{(0, 0): {(1, 0)}, (1, 0): {(2, 0)}, (2, 0): {(3, 0), (3, 1)}, (3, 0): set(), (3, 1): set()}
+
+Loading: SARC\5-55.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: SARC\5-56.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: SARC\5-6.sarc
+Visitable areas tree:
+{(0, 0): {(1, 0), (1, 1)}, (1, 0): {(0, 0)}, (1, 1): {(0, 0)}}
+
+Loading: SARC\5-7.sarc
+Visitable areas tree:
+{(0, 0): {(1, 1)}, (1, 1): {(0, 0)}}
+
+Loading: SARC\6-1.sarc
+Visitable areas tree:
+{(0, 0): {(0, 1), (0, 2)}, (0, 1): {(0, 0)}, (0, 2): set()}
+
+Loading: SARC\6-2.sarc
+Visitable areas tree:
+{(0, 0): {(0, 1)}, (0, 1): {(0, 3), (0, 2)}, (0, 3): {(0, 1)}, (0, 2): set()}
+
+Loading: SARC\6-21.sarc
+Visitable areas tree:
+{(0, 0): {(0, 1), (1, 0), (0, 2)}, (0, 1): {(0, 0)}, (1, 0): set(), (0, 2): {(2, 4)}, (2, 4): set()}
+
+Loading: SARC\6-22.sarc
+Visitable areas tree:
+{(0, 0): {(1, 1)}, (1, 1): {(2, 0), (0, 2)}, (0, 2): {(1, 1)}, (2, 0): set()}
+
+Loading: SARC\6-23.sarc
+Visitable areas tree:
+{(0, 0): {(3, 0), (0, 1)}, (3, 0): {(1, 0)}, (1, 0): set(), (0, 1): {(0, 0)}}
+Unvisitable areas:
+(2, 0)
+(2, 1)
+
+Loading: SARC\6-3.sarc
+Visitable areas tree:
+{(0, 0): {(0, 1), (0, 3)}, (0, 1): {(0, 2)}, (0, 2): set(), (0, 3): {(0, 0)}}
+
+Loading: SARC\6-4.sarc
+Visitable areas tree:
+{(0, 0): {(0, 1), (1, 2)}, (0, 1): {(1, 6), (1, 4)}, (1, 4): {(0, 1)}, (1, 6): set(), (1, 2): {(0, 0)}}
+
+Loading: SARC\6-5.sarc
+Visitable areas tree:
+{(0, 0): {(0, 1), (1, 0), (0, 0)}, (1, 0): {(0, 0)}, (0, 1): set()}
+
+Loading: SARC\6-6.sarc
+Visitable areas tree:
+{(0, 0): {(1, 0), (0, 2)}, (1, 0): set(), (0, 2): {(0, 0)}}
+
+Loading: SARC\6-7.sarc
+Visitable areas tree:
+{(0, 0): {(1, 0)}, (1, 0): {(0, 0)}}
+
+Loading: SARC\7-1.sarc
+Visitable areas tree:
+{(0, 0): {(2, 0), (1, 0)}, (2, 0): {(0, 0)}, (1, 0): set()}
+
+Loading: SARC\7-2.sarc
+Visitable areas tree:
+{(0, 0): {(0, 1)}, (0, 1): {(0, 0)}}
+
+Loading: SARC\7-20.sarc
+Visitable areas tree:
+{(0, 0): {(3, 1)}, (3, 1): {(1, 2)}, (1, 2): {(3, 2)}, (3, 2): {(1, 3), (1, 1)}, (1, 1): {(3, 2)}, (1, 3): {(3, 0)}, (3, 0): {(1, 5), (1, 0), (1, 4)}, (1, 0): {(3, 0)}, (1, 5): {(2, 0)}, (2, 0): set(), (1, 4): {(2, 1)}, (2, 1): set()}
+
+Loading: SARC\7-21.sarc
+Visitable areas tree:
+{(0, 0): {(1, 0)}, (1, 0): {(1, 1)}, (1, 1): {(1, 2), (2, 0), (1, 3), (1, 1)}, (2, 0): {(1, 1)}, (1, 2): {(1, 1)}, (1, 3): {(1, 1)}}
+
+Loading: SARC\7-23.sarc
+Visitable areas tree:
+{(0, 0): {(0, 1), (1, 0)}, (0, 1): {(0, 0)}, (1, 0): {(2, 0)}, (2, 0): set()}
+
+Loading: SARC\7-3.sarc
+Visitable areas tree:
+{(0, 0): {(0, 1)}, (0, 1): {(0, 0)}}
+
+Loading: SARC\7-32.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: SARC\7-33.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: SARC\7-34.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: SARC\7-37.sarc
+Visitable areas tree:
+{(0, 0): {(0, 1)}, (0, 1): {(1, 0)}, (1, 0): set()}
+Unvisitable areas:
+(1, 1)
+
+Loading: SARC\7-4.sarc
+Visitable areas tree:
+{(0, 0): {(1, 0), (0, 0)}, (1, 0): {(0, 0)}}
+
+Loading: SARC\7-5.sarc
+Visitable areas tree:
+{(0, 0): {(1, 0)}, (1, 0): set()}
+
+Loading: SARC\7-55.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: SARC\7-6.sarc
+Visitable areas tree:
+{(0, 0): {(0, 1)}, (0, 1): {(0, 2)}, (0, 2): set()}
+
+Loading: SARC\8-1.sarc
+Visitable areas tree:
+{(0, 0): {(0, 2)}, (0, 2): set()}
+Unvisitable areas:
+(0, 1)
+
+Loading: SARC\8-2.sarc
+Visitable areas tree:
+{(0, 0): {(0, 2)}, (0, 2): set()}
+
+Loading: SARC\8-3.sarc
+Visitable areas tree:
+{(0, 0): {(0, 2), (1, 1)}, (0, 2): {(0, 0)}, (1, 1): set()}
+
+Loading: SARC\8-4.sarc
+Visitable areas tree:
+{(0, 0): {(1, 0)}, (1, 0): set()}
+
+Loading: SARC\8-42.sarc
+Visitable areas tree:
+{(0, 0): {(1, 1)}, (1, 1): {(2, 0)}, (2, 0): set()}
+
+Loading: SARC\8-43.sarc
+Visitable areas tree:
+{(0, 0): {(0, 1)}, (0, 1): {(1, 0)}, (1, 0): {(2, 0)}, (2, 0): {(3, 1)}, (3, 1): set()}
+
+Loading: SARC\9-1.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: SARC\9-2.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: SARC\9-3.sarc
+Visitable areas tree:
+{(0, 0): {(1, 0)}, (1, 0): {(0, 0)}}
+
+Loading: SARC\9-4.sarc
+Visitable areas tree:
+{(0, 0): {(1, 0)}, (1, 0): {(0, 0), (1, 1)}, (1, 1): {(1, 0)}}
+
+Loading: SARC\9-5.sarc
+Visitable areas tree:
+{(0, 0): {(1, 1)}, (1, 1): {(0, 0)}}
+
+Loading: SARC\9-6.sarc
+Visitable areas tree:
+{(0, 0): {(2, 0), (1, 0)}, (1, 0): {(1, 2), (1, 1)}, (1, 2): set(), (1, 1): {(1, 0)}, (2, 0): {(0, 0)}}
+
+Loading: SARC\9-7.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: SARC\9-8.sarc
+Visitable areas tree:
+{(0, 0): {(0, 1), (1, 0)}, (1, 0): set(), (0, 1): {(0, 0)}}
+
+Loading: SARC\9-9.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: SARC-RDash\1-1.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: SARC-RDash\1-13.sarc
+Warning: Trying to visit file 1 nextGoto 8, but nextGoto does not exist!
+Visitable areas tree:
+{(0, 0): {(1, 0)}, (1, 0): {(0, 0)}}
+
+Loading: SARC-RDash\1-2.sarc
+Visitable areas tree:
+{(0, 0): {(1, 0)}, (1, 0): {(0, 1), (0, 0)}, (0, 1): set()}
+
+Loading: SARC-RDash\1-21.sarc
+Visitable areas tree:
+{(0, 0): {(1, 0)}, (1, 0): set()}
+
+Loading: SARC-RDash\1-23.sarc
+Visitable areas tree:
+{(0, 0): {(0, 1), (1, 0)}, (0, 1): {(0, 0)}, (1, 0): {(2, 0)}, (2, 0): set()}
+
+Loading: SARC-RDash\1-25.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: SARC-RDash\1-26.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: SARC-RDash\1-27.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: SARC-RDash\1-28.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: SARC-RDash\1-29.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: SARC-RDash\1-3.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: SARC-RDash\1-30.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: SARC-RDash\1-31.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: SARC-RDash\1-32.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: SARC-RDash\1-33.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: SARC-RDash\1-34.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: SARC-RDash\1-39.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: SARC-RDash\1-4.sarc
+Visitable areas tree:
+{(0, 0): {(0, 1)}, (0, 1): {(0, 0)}}
+
+Loading: SARC-RDash\1-41.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: SARC-RDash\1-46.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: SARC-RDash\1-47.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: SARC-RDash\1-48.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: SARC-RDash\1-49.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: SARC-RDash\1-5.sarc
+Visitable areas tree:
+{(0, 0): {(1, 0)}, (1, 0): {(0, 0)}}
+
+Loading: SARC-RDash\1-55.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: SARC-RDash\1-58.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: SARC-RDash\2-1.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: SARC-RDash\2-13.sarc
+Visitable areas tree:
+{(0, 0): {(0, 2)}, (0, 2): set()}
+
+Loading: SARC-RDash\2-14.sarc
+Visitable areas tree:
+{(0, 0): {(0, 1)}, (0, 1): set()}
+
+Loading: SARC-RDash\2-2.sarc
+Visitable areas tree:
+{(0, 0): {(1, 0)}, (1, 0): {(0, 0)}}
+
+Loading: SARC-RDash\2-21.sarc
+Visitable areas tree:
+{(0, 0): {(1, 0)}, (1, 0): set()}
+
+Loading: SARC-RDash\2-23.sarc
+Visitable areas tree:
+{(0, 0): {(1, 0)}, (1, 0): {(2, 0)}, (2, 0): set()}
+
+Loading: SARC-RDash\2-25.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: SARC-RDash\2-26.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: SARC-RDash\2-27.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: SARC-RDash\2-28.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: SARC-RDash\2-29.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: SARC-RDash\2-3.sarc
+Visitable areas tree:
+{(0, 0): {(1, 0)}, (1, 0): {(0, 0)}}
+
+Loading: SARC-RDash\2-32.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: SARC-RDash\2-33.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: SARC-RDash\2-34.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: SARC-RDash\2-4.sarc
+Visitable areas tree:
+{(0, 0): {(0, 1), (1, 0), (2, 2)}, (0, 1): {(0, 0)}, (1, 0): set(), (2, 2): {(0, 0)}}
+
+Loading: SARC-RDash\2-5.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: SARC-RDash\2-55.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: SARC-RDash\2-56.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: SARC-RDash\2-57.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: SARC-RDash\2-6.sarc
+Visitable areas tree:
+{(0, 0): {(1, 0)}, (1, 0): {(0, 0)}}
+
+Loading: SARC-RDash\3-1.sarc
+Visitable areas tree:
+{(0, 0): {(1, 0)}, (1, 0): {(0, 0)}}
+
+Loading: SARC-RDash\3-13.sarc
+Visitable areas tree:
+{(0, 0): {(1, 0)}, (1, 0): set()}
+
+Loading: SARC-RDash\3-15.sarc
+Visitable areas tree:
+{(0, 0): {(1, 0)}, (1, 0): set()}
+
+Loading: SARC-RDash\3-2.sarc
+Visitable areas tree:
+{(0, 0): {(1, 0)}, (1, 0): {(0, 0)}}
+
+Loading: SARC-RDash\3-20.sarc
+Visitable areas tree:
+{(0, 0): {(1, 0)}, (1, 0): {(0, 1), (0, 2)}, (0, 1): set(), (0, 2): set()}
+
+Loading: SARC-RDash\3-21.sarc
+Visitable areas tree:
+{(0, 0): {(1, 0)}, (1, 0): set()}
+
+Loading: SARC-RDash\3-23.sarc
+Visitable areas tree:
+{(0, 0): {(0, 1), (0, 3)}, (0, 3): {(0, 2)}, (0, 2): {(1, 0)}, (1, 0): {(2, 0)}, (2, 0): set(), (0, 1): {(0, 2)}}
+
+Loading: SARC-RDash\3-25.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: SARC-RDash\3-3.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: SARC-RDash\3-32.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: SARC-RDash\3-33.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: SARC-RDash\3-34.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: SARC-RDash\3-4.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: SARC-RDash\3-5.sarc
+Visitable areas tree:
+{(0, 0): {(1, 0)}, (1, 0): {(0, 0)}}
+
+Loading: SARC-RDash\3-55.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: SARC-RDash\4-1.sarc
+Visitable areas tree:
+{(0, 0): {(0, 1)}, (0, 1): set()}
+
+Loading: SARC-RDash\4-13.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: SARC-RDash\4-16.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: SARC-RDash\4-2.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: SARC-RDash\4-20.sarc
+Visitable areas tree:
+{(0, 0): {(1, 0), (1, 1)}, (1, 0): set(), (1, 1): set()}
+
+Loading: SARC-RDash\4-21.sarc
+Warning: Trying to visit file 0 nextGoto 1, but nextGoto does not exist!
+Visitable areas tree:
+{(0, 0): {(1, 0)}, (1, 0): set()}
+
+Loading: SARC-RDash\4-23.sarc
+Visitable areas tree:
+{(0, 0): {(1, 0)}, (1, 0): {(2, 0)}, (2, 0): set()}
+
+Loading: SARC-RDash\4-3.sarc
+Visitable areas tree:
+{(0, 0): {(0, 2)}, (0, 2): {(0, 0)}}
+
+Loading: SARC-RDash\4-32.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: SARC-RDash\4-33.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: SARC-RDash\4-34.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: SARC-RDash\4-4.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: SARC-RDash\4-5.sarc
+Visitable areas tree:
+{(0, 0): {(1, 0)}, (1, 0): {(0, 0)}}
+
+Loading: SARC-RDash\4-55.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: SARC-RDash\4-56.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: SARC-RDash\4-57.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: SARC-RDash\5-1.sarc
+Visitable areas tree:
+{(0, 0): {(0, 1)}, (0, 1): {(0, 0), (0, 2)}, (0, 2): set()}
+
+Loading: SARC-RDash\5-13.sarc
+Visitable areas tree:
+{(0, 0): {(1, 0)}, (1, 0): set()}
+Unvisitable areas:
+(0, 1)
+
+Loading: SARC-RDash\5-17.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: SARC-RDash\5-2.sarc
+Visitable areas tree:
+{(0, 0): {(1, 0)}, (1, 0): set()}
+
+Loading: SARC-RDash\5-20.sarc
+Visitable areas tree:
+{(0, 0): {(1, 0), (1, 1)}, (1, 0): set(), (1, 1): set()}
+
+Loading: SARC-RDash\5-21.sarc
+Visitable areas tree:
+{(0, 0): {(1, 0)}, (1, 0): set()}
+
+Loading: SARC-RDash\5-23.sarc
+Visitable areas tree:
+{(0, 0): {(1, 0)}, (1, 0): {(2, 0)}, (2, 0): set()}
+
+Loading: SARC-RDash\5-3.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: SARC-RDash\5-32.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: SARC-RDash\5-33.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: SARC-RDash\5-34.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: SARC-RDash\5-37.sarc
+Visitable areas tree:
+{(0, 0): {(1, 0)}, (1, 0): set()}
+
+Loading: SARC-RDash\5-4.sarc
+Visitable areas tree:
+{(0, 0): {(0, 2)}, (0, 2): set()}
+
+Loading: SARC-RDash\5-5.sarc
+Visitable areas tree:
+{(0, 0): {(1, 0)}, (1, 0): {(0, 1), (0, 2)}, (0, 2): {(0, 1)}, (0, 1): set()}
+
+Loading: SARC-RDash\5-55.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: SARC-RDash\5-56.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: SARC-RDash\5-6.sarc
+Visitable areas tree:
+{(0, 0): {(1, 0)}, (1, 0): {(0, 0)}}
+
+Loading: SARC-RDash\5-7.sarc
+Visitable areas tree:
+{(0, 0): {(0, 1)}, (0, 1): {(1, 1)}, (1, 1): set()}
+
+Loading: SARC-RDash\6-1.sarc
+Visitable areas tree:
+{(0, 0): {(0, 1)}, (0, 1): {(0, 0)}}
+
+Loading: SARC-RDash\6-2.sarc
+Visitable areas tree:
+{(0, 0): {(1, 0)}, (1, 0): {(0, 0)}}
+
+Loading: SARC-RDash\6-21.sarc
+Visitable areas tree:
+{(0, 0): {(0, 1), (1, 0), (0, 2)}, (0, 1): {(0, 0)}, (0, 2): {(0, 0), (2, 4)}, (1, 0): set(), (2, 4): set()}
+
+Loading: SARC-RDash\6-22.sarc
+Visitable areas tree:
+{(0, 0): {(1, 0)}, (1, 0): set()}
+
+Loading: SARC-RDash\6-23.sarc
+Visitable areas tree:
+{(0, 0): {(3, 0)}, (3, 0): {(1, 0)}, (1, 0): set()}
+Unvisitable areas:
+(2, 0)
+
+Loading: SARC-RDash\6-3.sarc
+Visitable areas tree:
+{(0, 0): {(0, 2)}, (0, 2): set()}
+
+Loading: SARC-RDash\6-4.sarc
+Visitable areas tree:
+{(0, 0): {(1, 6)}, (1, 6): set()}
+
+Loading: SARC-RDash\6-5.sarc
+Visitable areas tree:
+{(0, 0): {(0, 1)}, (0, 1): {(0, 0)}}
+
+Loading: SARC-RDash\6-6.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: SARC-RDash\6-7.sarc
+Visitable areas tree:
+{(0, 0): {(1, 0)}, (1, 0): {(0, 0)}}
+
+Loading: SARC-RDash\7-1.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: SARC-RDash\7-2.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: SARC-RDash\7-20.sarc
+Visitable areas tree:
+{(0, 0): {(1, 0), (1, 1)}, (1, 1): set(), (1, 0): set()}
+
+Loading: SARC-RDash\7-21.sarc
+Warning: File 1, area 0: NextGoto 0 leads to the same file, but uses file ID explicitly instead of 0.
+Warning: Trying to visit file 1 nextGoto 6, but nextGoto does not exist!
+Visitable areas tree:
+{(0, 0): {(0, 1)}, (0, 1): {(1, 0)}, (1, 0): set()}
+
+Loading: SARC-RDash\7-23.sarc
+Visitable areas tree:
+{(0, 0): {(1, 0)}, (1, 0): {(2, 0)}, (2, 0): set()}
+
+Loading: SARC-RDash\7-3.sarc
+Visitable areas tree:
+{(0, 0): {(0, 1), (0, 2)}, (0, 1): {(0, 0)}, (0, 2): {(0, 0)}}
+
+Loading: SARC-RDash\7-32.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: SARC-RDash\7-33.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: SARC-RDash\7-34.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: SARC-RDash\7-37.sarc
+Visitable areas tree:
+{(0, 0): set()}
+Unvisitable areas:
+(0, 1)
+(1, 0)
+(1, 1)
+
+Loading: SARC-RDash\7-4.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: SARC-RDash\7-5.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: SARC-RDash\7-55.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: SARC-RDash\7-6.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: SARC-RDash\8-1.sarc
+Visitable areas tree:
+{(0, 0): {(0, 1)}, (0, 1): set()}
+
+Loading: SARC-RDash\8-2.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: SARC-RDash\8-23.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: SARC-RDash\8-3.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: SARC-RDash\8-4.sarc
+Visitable areas tree:
+{(0, 0): {(0, 1), (1, 0)}, (1, 0): set(), (0, 1): {(0, 0)}}
+
+Loading: SARC-RDash\8-42.sarc
+Visitable areas tree:
+{(0, 0): {(1, 0)}, (1, 0): {(2, 0)}, (2, 0): set()}
+
+Loading: SARC-RDash\8-43.sarc
+Visitable areas tree:
+{(0, 0): {(0, 1)}, (0, 1): {(1, 0)}, (1, 0): {(2, 0)}, (2, 0): {(3, 1)}, (3, 1): set()}
+
+Loading: SARC-RDash\9-1.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: SARC-RDash\9-2.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: SARC-RDash\9-3.sarc
+Visitable areas tree:
+{(0, 0): {(1, 0)}, (1, 0): {(0, 0)}}
+
+Loading: SARC-RDash\9-4.sarc
+Visitable areas tree:
+{(0, 0): {(1, 0)}, (1, 0): {(0, 0)}}
+
+Loading: SARC-RDash\9-5.sarc
+Visitable areas tree:
+{(0, 0): {(0, 1)}, (0, 1): {(0, 0)}}
+
+Loading: SARC-RDash\9-6.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: SARC-RDash\9-7.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: SARC-RDash\9-8.sarc
+Visitable areas tree:
+{(0, 0): {(1, 0)}, (1, 0): set()}
+
+Loading: SARC-RDash\9-9.sarc
+Visitable areas tree:
+{(0, 0): {(1, 0)}, (1, 0): set()}
+
+Loading: DX\Course\1-1.sarc
+Visitable areas tree:
+{(0, 0): {(2, 0), (1, 0)}, (2, 0): {(0, 0)}, (1, 0): {(0, 0)}}
+
+Loading: DX\Course\1-13.sarc
+Visitable areas tree:
+{(0, 0): {(1, 0)}, (1, 0): {(1, 2)}, (1, 2): {(0, 0), (1, 1)}, (1, 1): {(1, 2)}}
+
+Loading: DX\Course\1-2.sarc
+Visitable areas tree:
+{(0, 0): {(1, 0)}, (1, 0): {(0, 1), (1, 2), (0, 0), (2, 0), (1, 0), (1, 1)}, (1, 1): {(1, 0)}, (2, 0): {(1, 0)}, (0, 1): set(), (1, 2): {(1, 0)}}
+
+Loading: DX\Course\1-21.sarc
+Visitable areas tree:
+{(0, 0): {(1, 0)}, (1, 0): set()}
+
+Loading: DX\Course\1-23.sarc
+Visitable areas tree:
+{(0, 0): {(0, 1), (1, 0)}, (0, 1): {(0, 0)}, (1, 0): {(2, 0)}, (2, 0): set()}
+
+Loading: DX\Course\1-25.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: DX\Course\1-26.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: DX\Course\1-27.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: DX\Course\1-28.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: DX\Course\1-29.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: DX\Course\1-3.sarc
+Visitable areas tree:
+{(0, 0): {(1, 0), (1, 3)}, (1, 0): {(0, 0)}, (1, 3): {(0, 0)}}
+
+Loading: DX\Course\1-30.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: DX\Course\1-31.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: DX\Course\1-32.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: DX\Course\1-33.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: DX\Course\1-34.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: DX\Course\1-39.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: DX\Course\1-4.sarc
+Visitable areas tree:
+{(0, 0): {(0, 1)}, (0, 1): {(0, 0)}}
+
+Loading: DX\Course\1-41.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: DX\Course\1-46.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: DX\Course\1-47.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: DX\Course\1-48.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: DX\Course\1-49.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: DX\Course\1-5.sarc
+Visitable areas tree:
+{(0, 0): {(0, 1)}, (0, 1): {(0, 0)}}
+
+Loading: DX\Course\1-55.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: DX\Course\1-58.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: DX\Course\11-1.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: DX\Course\11-2.sarc
+Visitable areas tree:
+{(0, 0): {(1, 1)}, (1, 1): set()}
+Unvisitable areas:
+(2, 0)
+
+Loading: DX\Course\11-3.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: DX\Course\11-4.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: DX\Course\11-5.sarc
+Visitable areas tree:
+{(0, 0): {(1, 0)}, (1, 0): {(2, 0)}, (2, 0): set()}
+
+Loading: DX\Course\11-6.sarc
+Visitable areas tree:
+{(0, 0): {(1, 0)}, (1, 0): set()}
+Unvisitable areas:
+(2, 0)
+
+Loading: DX\Course\11-7.sarc
+Visitable areas tree:
+{(0, 0): {(1, 0)}, (1, 0): {(2, 0)}, (2, 0): {(3, 0)}, (3, 0): set()}
+
+Loading: DX\Course\11-8.sarc
+Visitable areas tree:
+{(0, 0): {(0, 1)}, (0, 1): {(0, 2)}, (0, 2): set()}
+Unvisitable areas:
+(1, 0)
+(1, 1)
+(1, 2)
+
+Loading: DX\Course\12-1.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: DX\Course\12-2.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: DX\Course\12-3.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: DX\Course\12-4.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: DX\Course\13-1.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: DX\Course\13-3.sarc
+Visitable areas tree:
+{(0, 0): set()}
+Unvisitable areas:
+(1, 0)
+
+Loading: DX\Course\13-5.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: DX\Course\13-6.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: DX\Course\13-8.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: DX\Course\14-1.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: DX\Course\14-2.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: DX\Course\14-4.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: DX\Course\14-5.sarc
+Visitable areas tree:
+{(0, 0): set()}
+Unvisitable areas:
+(1, 0)
+(2, 0)
+
+Loading: DX\Course\14-6.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: DX\Course\14-7.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: DX\Course\14-8.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: DX\Course\15-1.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: DX\Course\15-2.sarc
+Visitable areas tree:
+{(0, 0): set()}
+Unvisitable areas:
+(1, 0)
+
+Loading: DX\Course\15-3.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: DX\Course\15-4.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: DX\Course\15-5.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: DX\Course\15-6.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: DX\Course\15-7.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: DX\Course\16-3.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: DX\Course\16-4.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: DX\Course\16-5.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: DX\Course\16-6.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: DX\Course\16-7.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: DX\Course\16-8.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: DX\Course\17-1.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: DX\Course\17-2.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: DX\Course\17-3.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: DX\Course\17-4.sarc
+Visitable areas tree:
+{(0, 1): set()}
+
+Loading: DX\Course\17-5.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: DX\Course\17-6.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: DX\Course\18-2.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: DX\Course\18-3.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: DX\Course\18-4.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: DX\Course\18-5.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: DX\Course\18-6.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: DX\Course\18-7.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: DX\Course\18-8.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: DX\Course\2-1.sarc
+Visitable areas tree:
+{(0, 0): {(0, 1)}, (0, 1): {(0, 0)}}
+
+Loading: DX\Course\2-14.sarc
+Visitable areas tree:
+{(0, 0): {(0, 1), (1, 0)}, (1, 0): {(0, 0)}, (0, 1): {(0, 0)}}
+
+Loading: DX\Course\2-2.sarc
+Visitable areas tree:
+{(0, 0): {(1, 0)}, (1, 0): {(1, 1)}, (1, 1): {(1, 2)}, (1, 2): {(0, 0), (1, 1)}}
+
+Loading: DX\Course\2-21.sarc
+Visitable areas tree:
+{(0, 0): {(0, 1)}, (0, 1): {(0, 2)}, (0, 2): {(0, 3), (1, 0), (0, 4)}, (0, 3): {(0, 2)}, (0, 4): {(0, 2)}, (1, 0): set()}
+
+Loading: DX\Course\2-23.sarc
+Visitable areas tree:
+{(0, 0): {(0, 1), (1, 0), (0, 2)}, (1, 0): {(2, 0)}, (2, 0): set(), (0, 1): {(0, 0)}, (0, 2): {(0, 0)}}
+
+Loading: DX\Course\2-25.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: DX\Course\2-26.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: DX\Course\2-27.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: DX\Course\2-28.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: DX\Course\2-3.sarc
+Visitable areas tree:
+{(0, 0): {(1, 0)}, (1, 0): {(1, 2), (0, 0), (0, 1), (1, 1)}, (1, 1): {(1, 0)}, (0, 1): {(1, 0)}, (1, 2): {(1, 0)}}
+
+Loading: DX\Course\2-32.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: DX\Course\2-33.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: DX\Course\2-34.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: DX\Course\2-4.sarc
+Visitable areas tree:
+{(0, 0): {(2, 0), (1, 0), (1, 1)}, (1, 1): {(0, 0)}, (2, 0): {(0, 0)}, (1, 0): set()}
+
+Loading: DX\Course\2-5.sarc
+Visitable areas tree:
+{(0, 0): {(0, 1)}, (0, 1): {(0, 0)}}
+
+Loading: DX\Course\2-55.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: DX\Course\2-56.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: DX\Course\2-57.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: DX\Course\2-6.sarc
+Visitable areas tree:
+{(0, 0): {(1, 0)}, (1, 0): {(0, 0)}}
+
+Loading: DX\Course\3-1.sarc
+Visitable areas tree:
+{(0, 0): {(1, 0)}, (1, 0): {(0, 0)}}
+
+Loading: DX\Course\3-15.sarc
+Visitable areas tree:
+{(0, 0): {(1, 0)}, (1, 0): {(0, 1)}, (0, 1): set()}
+
+Loading: DX\Course\3-2.sarc
+Visitable areas tree:
+{(0, 0): {(1, 0)}, (1, 0): {(1, 2), (1, 0), (0, 0), (1, 1)}, (1, 1): {(1, 0)}, (1, 2): {(1, 0)}}
+
+Loading: DX\Course\3-20.sarc
+Warning: File 0, area 0: NextGoto 3 leads to the same file, but uses file ID explicitly instead of 0.
+Warning: File 0, area 1: NextGoto 5 leads to the same file, but uses file ID explicitly instead of 0.
+Visitable areas tree:
+{(0, 0): {(0, 1)}, (0, 1): {(0, 2)}, (0, 2): {(0, 3)}, (0, 3): {(1, 0), (1, 1)}, (1, 1): set(), (1, 0): set()}
+
+Loading: DX\Course\3-21.sarc
+Visitable areas tree:
+{(0, 0): {(1, 0)}, (1, 0): {(1, 0), (1, 1)}, (1, 1): {(2, 0), (1, 1)}, (2, 0): set()}
+
+Loading: DX\Course\3-23.sarc
+Visitable areas tree:
+{(0, 0): {(0, 1)}, (0, 1): {(0, 3), (0, 2)}, (0, 2): {(1, 0)}, (1, 0): {(2, 0)}, (2, 0): set(), (0, 3): {(0, 1)}}
+
+Loading: DX\Course\3-25.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: DX\Course\3-3.sarc
+Visitable areas tree:
+{(0, 0): {(1, 0)}, (1, 0): {(2, 0)}, (2, 0): {(1, 0)}}
+
+Loading: DX\Course\3-32.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: DX\Course\3-33.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: DX\Course\3-34.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: DX\Course\3-4.sarc
+Visitable areas tree:
+{(0, 0): {(2, 0), (1, 0)}, (2, 0): {(0, 0)}, (1, 0): {(0, 0)}}
+
+Loading: DX\Course\3-5.sarc
+Visitable areas tree:
+{(0, 0): {(1, 0)}, (1, 0): {(0, 0), (1, 1)}, (1, 1): {(1, 0)}}
+
+Loading: DX\Course\3-55.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: DX\Course\4-1.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: DX\Course\4-16.sarc
+Visitable areas tree:
+{(0, 0): {(0, 1)}, (0, 1): {(0, 0)}}
+
+Loading: DX\Course\4-2.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: DX\Course\4-20.sarc
+Visitable areas tree:
+{(0, 0): {(0, 1)}, (0, 1): {(0, 2), (0, 7)}, (0, 2): {(0, 3), (0, 5)}, (0, 5): set(), (0, 3): {(0, 8), (0, 10), (0, 4)}, (0, 4): {(0, 9), (0, 6), (1, 0)}, (0, 6): {(1, 1)}, (1, 1): set(), (1, 0): set(), (0, 9): set(), (0, 8): set(), (0, 10): set(), (0, 7): set()}
+Unvisitable areas:
+(2, 0)
+(2, 1)
+(2, 2)
+(2, 3)
+(2, 4)
+(2, 5)
+(2, 6)
+(2, 7)
+(2, 8)
+
+Loading: DX\Course\4-21.sarc
+Visitable areas tree:
+{(0, 0): {(1, 0)}, (1, 0): {(0, 0)}}
+
+Loading: DX\Course\4-23.sarc
+Visitable areas tree:
+{(0, 0): {(0, 1), (1, 0), (0, 2)}, (1, 0): {(2, 0)}, (2, 0): set(), (0, 1): {(0, 0)}, (0, 2): {(0, 0)}}
+
+Loading: DX\Course\4-3.sarc
+Visitable areas tree:
+{(0, 0): {(0, 1), (0, 2)}, (0, 2): {(0, 0)}, (0, 1): {(0, 0)}}
+
+Loading: DX\Course\4-32.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: DX\Course\4-33.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: DX\Course\4-34.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: DX\Course\4-4.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: DX\Course\4-5.sarc
+Visitable areas tree:
+{(0, 0): {(1, 0)}, (1, 0): {(0, 0), (0, 2)}, (0, 2): {(1, 0)}}
+
+Loading: DX\Course\4-55.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: DX\Course\4-56.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: DX\Course\4-57.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: DX\Course\40-1.sarc
+Warning: File 2, area 1: NextGoto 6 leads to the same file, but uses file ID explicitly instead of 0.
+Warning: Trying to visit file 2 nextGoto 1, but nextGoto does not exist!
+Warning: File 2, area 1: NextGoto 6 leads to the same file, but uses file ID explicitly instead of 0.
+Warning: File 2, area 1: NextGoto 6 leads to the same file, but uses file ID explicitly instead of 0.
+Warning: File 2, area 1: NextGoto 6 leads to the same file, but uses file ID explicitly instead of 0.
+Visitable areas tree:
+{(0, 0): {(0, 1), (2, 0), (1, 0)}, (0, 1): {(0, 0)}, (1, 0): {(1, 0)}, (2, 0): {(2, 1)}, (2, 1): {(2, 3), (2, 1), (2, 2)}, (2, 2): {(2, 1)}, (2, 3): {(2, 1)}}
+Unvisitable areas:
+(3, 0)
+(3, 1)
+(3, 2)
+
+Loading: DX\Course\40-10.sarc
+Visitable areas tree:
+{(0, 0): {(0, 1), (1, 0), (0, 0)}, (1, 0): {(0, 0)}, (0, 1): set()}
+Unvisitable areas:
+(2, 0)
+(3, 0)
+(3, 1)
+
+Loading: DX\Course\40-11.sarc
+Visitable areas tree:
+{(0, 0): {(1, 0)}, (1, 0): {(0, 1), (1, 2), (0, 0), (2, 0), (1, 0), (1, 1)}, (1, 1): {(1, 0)}, (2, 0): {(1, 0)}, (0, 1): set(), (1, 2): {(1, 0)}}
+Unvisitable areas:
+(3, 0)
+
+Loading: DX\Course\40-12.sarc
+Visitable areas tree:
+{(0, 0): {(1, 0)}, (1, 0): {(0, 1), (0, 0), (2, 0), (1, 0), (1, 1)}, (1, 1): {(1, 0)}, (2, 0): {(1, 0)}, (0, 1): set()}
+
+Loading: DX\Course\40-2.sarc
+Visitable areas tree:
+{(0, 0): {(0, 1), (1, 0)}, (1, 0): {(1, 0)}, (0, 1): {(0, 0)}}
+Unvisitable areas:
+(2, 0)
+(3, 0)
+
+Loading: DX\Course\40-3.sarc
+Visitable areas tree:
+{(0, 0): {(0, 1)}, (0, 1): {(0, 0), (0, 2)}, (0, 2): {(0, 1)}}
+Unvisitable areas:
+(1, 0)
+(1, 1)
+
+Loading: DX\Course\40-4.sarc
+Visitable areas tree:
+{(0, 0): set()}
+Unvisitable areas:
+(1, 0)
+(1, 1)
+
+Loading: DX\Course\40-5.sarc
+Visitable areas tree:
+{(0, 0): {(1, 0)}, (1, 0): {(0, 0)}}
+Unvisitable areas:
+(0, 1)
+(1, 1)
+
+Loading: DX\Course\40-6.sarc
+Visitable areas tree:
+{(0, 0): {(0, 1), (1, 0)}, (1, 0): {(0, 0)}, (0, 1): {(0, 0)}}
+
+Loading: DX\Course\40-7.sarc
+Warning: File 0, area 0: NextGoto 3 leads to the same file, but uses file ID explicitly instead of 0.
+Warning: File 0, area 1: NextGoto 5 leads to the same file, but uses file ID explicitly instead of 0.
+Visitable areas tree:
+{(0, 0): {(0, 1)}, (0, 1): {(0, 2)}, (0, 2): {(0, 3)}, (0, 3): {(1, 0), (1, 1)}, (1, 1): set(), (1, 0): set()}
+
+Loading: DX\Course\40-8.sarc
+Visitable areas tree:
+{(0, 0): {(1, 0)}, (1, 0): {(0, 0)}}
+Unvisitable areas:
+(0, 1)
+
+Loading: DX\Course\40-9.sarc
+Visitable areas tree:
+{(0, 0): set()}
+Unvisitable areas:
+(1, 0)
+(2, 0)
+(2, 1)
+(2, 2)
+(2, 3)
+(3, 0)
+
+Loading: DX\Course\41-1.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: DX\Course\41-2.sarc
+Visitable areas tree:
+{(0, 0): {(1, 0)}, (1, 0): {(2, 0)}, (2, 0): set()}
+
+Loading: DX\Course\41-3.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: DX\Course\41-4.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: DX\Course\41-5.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: DX\Course\41-9.sarc
+Visitable areas tree:
+{(0, 0): {(1, 0)}, (1, 0): {(0, 1)}, (0, 1): set()}
+Unvisitable areas:
+(0, 2)
+
+Loading: DX\Course\43-51.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: DX\Course\43-52.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: DX\Course\43-53.sarc
+Visitable areas tree:
+{(0, 0): set()}
+Unvisitable areas:
+(1, 0)
+
+Loading: DX\Course\43-54.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: DX\Course\44-25.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: DX\Course\44-26.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: DX\Course\44-27.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: DX\Course\44-28.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: DX\Course\44-29.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: DX\Course\44-30.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: DX\Course\44-31.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: DX\Course\44-34.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: DX\Course\44-35.sarc
+Visitable areas tree:
+{(0, 0): {(0, 2)}, (0, 2): {(0, 0)}}
+
+Loading: DX\Course\44-36.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: DX\Course\44-41.sarc
+Warning: Trying to visit file 2 nextGoto 0, but file does not exist!
+Warning: Trying to visit file 1 nextGoto 0, but file does not exist!
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: DX\Course\44-43.sarc
+Warning: Trying to visit file 2 nextGoto 0, but file does not exist!
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: DX\Course\44-47.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: DX\Course\44-53.sarc
+Visitable areas tree:
+{(0, 0): {(2, 0), (1, 0)}, (2, 0): {(0, 0)}, (1, 0): {(0, 0)}}
+
+Loading: DX\Course\44-54.sarc
+Visitable areas tree:
+{(0, 0): {(0, 0)}}
+Unvisitable areas:
+(1, 0)
+(2, 0)
+(3, 0)
+
+Loading: DX\Course\44-57.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: DX\Course\44-8.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: DX\Course\44-9.sarc
+Warning: Trying to visit file 1 nextGoto 0, but file does not exist!
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: DX\Course\45-1.sarc
+Visitable areas tree:
+{(0, 0): {(1, 0)}, (1, 0): set()}
+
+Loading: DX\Course\45-2.sarc
+Visitable areas tree:
+{(0, 0): {(1, 0)}, (1, 0): {(0, 1), (1, 2)}, (0, 1): set(), (1, 2): {(1, 1)}, (1, 1): {(1, 2)}}
+
+Loading: DX\Course\45-7.sarc
+Visitable areas tree:
+{(0, 0): {(1, 0)}, (1, 0): {(0, 1)}, (0, 1): set()}
+
+Loading: DX\Course\45-9.sarc
+Warning: Trying to visit file 1 nextGoto 2, but file does not exist!
+Warning: Trying to visit file 1 nextGoto 3, but file does not exist!
+Warning: Trying to visit file 1 nextGoto 4, but file does not exist!
+Warning: Trying to visit file 1 nextGoto 5, but file does not exist!
+Warning: Trying to visit file 1 nextGoto 7, but file does not exist!
+Warning: Trying to visit file 1 nextGoto 8, but file does not exist!
+Warning: Trying to visit file 1 nextGoto 9, but file does not exist!
+Warning: Trying to visit file 1 nextGoto 10, but file does not exist!
+Warning: Trying to visit file 1 nextGoto 11, but file does not exist!
+Visitable areas tree:
+{(0, 0): {(0, 1)}, (0, 1): set()}
+
+Loading: DX\Course\46-1.sarc
+Warning: Trying to visit file 1 nextGoto 0, but file does not exist!
+Visitable areas tree:
+{(0, 0): {(0, 1)}, (0, 1): {(0, 0)}}
+
+Loading: DX\Course\46-2.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: DX\Course\46-3.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: DX\Course\46-4.sarc
+Visitable areas tree:
+{(0, 0): {(0, 1)}, (0, 1): {(0, 0)}}
+
+Loading: DX\Course\46-5.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: DX\Course\46-6.sarc
+Visitable areas tree:
+{(0, 0): {(0, 1), (0, 0)}, (0, 1): {(0, 0)}}
+
+Loading: DX\Course\46-7.sarc
+Visitable areas tree:
+{(0, 0): {(0, 1)}, (0, 1): {(0, 0)}}
+
+Loading: DX\Course\47-1.sarc
+Warning: File 1, area 0: NextGoto 4 leads to the same file, but uses file ID explicitly instead of 0.
+Warning: File 1, area 0: NextGoto 4 leads to the same file, but uses file ID explicitly instead of 0.
+Visitable areas tree:
+{(0, 0): {(2, 0), (1, 0)}, (2, 0): {(2, 1)}, (2, 1): {(2, 0)}, (1, 0): {(1, 1)}, (1, 1): {(1, 0)}}
+
+Loading: DX\Course\47-2.sarc
+Visitable areas tree:
+{(0, 0): {(1, 0)}, (1, 0): set()}
+
+Loading: DX\Course\47-3.sarc
+Warning: Trying to visit file 2 nextGoto 9, but file does not exist!
+Warning: Trying to visit file 1 nextGoto 3, but nextGoto does not exist!
+Visitable areas tree:
+{(0, 0): set()}
+Unvisitable areas:
+(1, 0)
+
+Loading: DX\Course\47-4.sarc
+Visitable areas tree:
+{(0, 0): {(0, 1), (0, 2)}, (0, 2): {(0, 0)}, (0, 1): {(0, 0)}}
+Unvisitable areas:
+(1, 0)
+(1, 1)
+
+Loading: DX\Course\47-5.sarc
+Warning: Trying to visit file 1 nextGoto 3, but nextGoto does not exist!
+Visitable areas tree:
+{(0, 0): {(1, 0)}, (1, 0): {(1, 0)}}
+
+Loading: DX\Course\47-6.sarc
+Warning: Trying to visit file 1 nextGoto 1, but nextGoto does not exist!
+Warning: Trying to visit file 1 nextGoto 3, but nextGoto does not exist!
+Visitable areas tree:
+{(0, 0): {(0, 1), (0, 0)}, (0, 1): set()}
+Unvisitable areas:
+(1, 0)
+(2, 0)
+(2, 1)
+
+Loading: DX\Course\47-7.sarc
+Visitable areas tree:
+{(0, 0): {(0, 1)}, (0, 1): {(0, 0)}}
+Unvisitable areas:
+(1, 0)
+(1, 1)
+
+Loading: DX\Course\48-10.sarc
+Visitable areas tree:
+{(0, 0): set()}
+Unvisitable areas:
+(0, 1)
+
+Loading: DX\Course\48-2.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: DX\Course\48-3.sarc
+Visitable areas tree:
+{(0, 0): {(0, 1)}, (0, 1): {(0, 0)}}
+
+Loading: DX\Course\49-1.sarc
+Visitable areas tree:
+{(0, 0): set()}
+Unvisitable areas:
+(1, 0)
+(2, 0)
+(3, 1)
+
+Loading: DX\Course\49-10.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: DX\Course\49-11.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: DX\Course\49-12.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: DX\Course\49-13.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: DX\Course\49-14.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: DX\Course\49-15.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: DX\Course\49-16.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: DX\Course\49-17.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: DX\Course\49-2.sarc
+Visitable areas tree:
+{(0, 0): set()}
+Unvisitable areas:
+(1, 0)
+(1, 1)
+(1, 2)
+(1, 3)
+(2, 0)
+
+Loading: DX\Course\49-20.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: DX\Course\49-22.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: DX\Course\49-23.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: DX\Course\49-24.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: DX\Course\49-25.sarc
+Warning: Trying to visit file 2 nextGoto 7, but file does not exist!
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: DX\Course\49-26.sarc
+Warning: Trying to visit file 0 nextGoto 1, but nextGoto does not exist!
+Warning: Course not even enterable through start_next_goto!
+Unvisitable areas:
+(0, 0)
+
+Loading: DX\Course\49-27.sarc
+Warning: Trying to visit file 2 nextGoto 0, but file does not exist!
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: DX\Course\49-28.sarc
+Warning: Trying to visit file 0 nextGoto 1, but nextGoto does not exist!
+Warning: Course not even enterable through start_next_goto!
+Unvisitable areas:
+(0, 0)
+
+Loading: DX\Course\49-29.sarc
+Warning: Trying to visit file 3 nextGoto 7, but file does not exist!
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: DX\Course\49-3.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: DX\Course\49-30.sarc
+Warning: Trying to visit file 1 nextGoto 0, but file does not exist!
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: DX\Course\49-31.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: DX\Course\49-32.sarc
+Visitable areas tree:
+{(0, 0): {(1, 1)}, (1, 1): {(2, 0)}, (2, 0): set()}
+
+Loading: DX\Course\49-33.sarc
+Visitable areas tree:
+{(0, 0): {(0, 1)}, (0, 1): {(0, 2)}, (0, 2): {(1, 0)}, (1, 0): set()}
+
+Loading: DX\Course\49-7.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: DX\Course\49-8.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: DX\Course\49-9.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: DX\Course\5-1.sarc
+Visitable areas tree:
+{(0, 0): {(1, 0), (1, 1)}, (1, 0): {(0, 0)}, (1, 1): {(0, 0)}}
+
+Loading: DX\Course\5-17.sarc
+Visitable areas tree:
+{(0, 0): {(1, 1)}, (1, 1): set()}
+
+Loading: DX\Course\5-2.sarc
+Visitable areas tree:
+{(0, 0): {(2, 0), (1, 0), (0, 0)}, (1, 0): {(0, 0)}, (2, 0): {(0, 0)}}
+
+Loading: DX\Course\5-20.sarc
+Warning: Trying to visit file 3 nextGoto 16, but nextGoto does not exist!
+Warning: File 1, area 2: NextGoto 10 leads to the same file, but uses file ID explicitly instead of 0.
+Visitable areas tree:
+{(0, 0): {(1, 2), (1, 4), (2, 0), (1, 0), (1, 1)}, (1, 4): {(0, 0)}, (1, 2): {(1, 3)}, (1, 3): {(3, 1)}, (3, 1): set(), (2, 0): {(3, 0)}, (3, 0): set(), (1, 0): set(), (1, 1): {(0, 0)}}
+
+Loading: DX\Course\5-21.sarc
+Visitable areas tree:
+{(0, 2): {(0, 0)}, (0, 0): {(0, 1), (0, 3)}, (0, 1): {(1, 0)}, (1, 0): set(), (0, 3): {(0, 1)}}
+
+Loading: DX\Course\5-23.sarc
+Visitable areas tree:
+{(0, 0): {(2, 0), (1, 0), (1, 1)}, (1, 0): {(0, 0)}, (2, 0): {(3, 0)}, (3, 0): set(), (1, 1): {(0, 0)}}
+
+Loading: DX\Course\5-3.sarc
+Visitable areas tree:
+{(0, 0): {(0, 1), (0, 2)}, (0, 1): set(), (0, 2): {(0, 0)}}
+
+Loading: DX\Course\5-32.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: DX\Course\5-33.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: DX\Course\5-34.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: DX\Course\5-37.sarc
+Visitable areas tree:
+{(0, 0): {(0, 1)}, (0, 1): {(1, 0)}, (1, 0): set()}
+
+Loading: DX\Course\5-4.sarc
+Visitable areas tree:
+{(0, 0): {(0, 1), (0, 3)}, (0, 1): {(0, 0)}, (0, 3): {(0, 2)}, (0, 2): set()}
+
+Loading: DX\Course\5-5.sarc
+Visitable areas tree:
+{(0, 0): {(1, 0)}, (1, 0): {(2, 0)}, (2, 0): {(3, 0), (3, 1)}, (3, 0): set(), (3, 1): set()}
+
+Loading: DX\Course\5-55.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: DX\Course\5-56.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: DX\Course\5-6.sarc
+Visitable areas tree:
+{(0, 0): {(1, 0), (1, 1)}, (1, 0): {(0, 0)}, (1, 1): {(0, 0)}}
+
+Loading: DX\Course\5-7.sarc
+Visitable areas tree:
+{(0, 0): {(1, 1)}, (1, 1): {(0, 0)}}
+
+Loading: DX\Course\50-1.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: DX\Course\50-10.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: DX\Course\50-11.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: DX\Course\50-12.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: DX\Course\50-13.sarc
+Visitable areas tree:
+{(0, 1): set()}
+
+Loading: DX\Course\50-14.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: DX\Course\50-15.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: DX\Course\50-2.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: DX\Course\50-3.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: DX\Course\50-4.sarc
+Visitable areas tree:
+{(0, 0): {(0, 1)}, (0, 1): {(0, 0)}}
+
+Loading: DX\Course\50-5.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: DX\Course\50-8.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: DX\Course\50-9.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: DX\Course\6-1.sarc
+Visitable areas tree:
+{(0, 0): {(0, 1), (0, 2)}, (0, 1): {(0, 0)}, (0, 2): set()}
+
+Loading: DX\Course\6-2.sarc
+Visitable areas tree:
+{(0, 0): {(0, 1)}, (0, 1): {(0, 3), (0, 2)}, (0, 3): {(0, 1)}, (0, 2): set()}
+
+Loading: DX\Course\6-21.sarc
+Visitable areas tree:
+{(0, 0): {(0, 1), (1, 0), (0, 2)}, (0, 1): {(0, 0)}, (1, 0): set(), (0, 2): {(2, 4)}, (2, 4): set()}
+
+Loading: DX\Course\6-22.sarc
+Visitable areas tree:
+{(0, 0): {(1, 1)}, (1, 1): {(2, 0), (0, 2)}, (0, 2): {(1, 1)}, (2, 0): set()}
+
+Loading: DX\Course\6-23.sarc
+Visitable areas tree:
+{(0, 0): {(3, 0), (0, 1)}, (3, 0): {(1, 0)}, (1, 0): set(), (0, 1): {(0, 0)}}
+Unvisitable areas:
+(2, 0)
+(2, 1)
+
+Loading: DX\Course\6-3.sarc
+Visitable areas tree:
+{(0, 0): {(0, 1), (0, 3)}, (0, 1): {(0, 2)}, (0, 2): set(), (0, 3): {(0, 0)}}
+
+Loading: DX\Course\6-4.sarc
+Visitable areas tree:
+{(0, 0): {(0, 1), (1, 2)}, (0, 1): {(1, 6), (1, 4)}, (1, 4): {(0, 1)}, (1, 6): set(), (1, 2): {(0, 0)}}
+
+Loading: DX\Course\6-5.sarc
+Visitable areas tree:
+{(0, 0): {(0, 1), (1, 0), (0, 0)}, (1, 0): {(0, 0)}, (0, 1): set()}
+
+Loading: DX\Course\6-6.sarc
+Visitable areas tree:
+{(0, 0): {(1, 0), (0, 2)}, (1, 0): set(), (0, 2): {(0, 0)}}
+
+Loading: DX\Course\6-7.sarc
+Visitable areas tree:
+{(0, 0): {(1, 0)}, (1, 0): {(0, 0)}}
+
+Loading: DX\Course\7-1.sarc
+Visitable areas tree:
+{(0, 0): {(2, 0), (1, 0)}, (2, 0): {(0, 0)}, (1, 0): set()}
+
+Loading: DX\Course\7-2.sarc
+Visitable areas tree:
+{(0, 0): {(0, 1)}, (0, 1): {(0, 0)}}
+
+Loading: DX\Course\7-20.sarc
+Visitable areas tree:
+{(0, 0): {(3, 1)}, (3, 1): {(1, 2)}, (1, 2): {(3, 2)}, (3, 2): {(1, 3), (1, 1)}, (1, 1): {(3, 2)}, (1, 3): {(3, 0)}, (3, 0): {(1, 5), (1, 0), (1, 4)}, (1, 0): {(3, 0)}, (1, 5): {(2, 0)}, (2, 0): set(), (1, 4): {(2, 1)}, (2, 1): set()}
+
+Loading: DX\Course\7-21.sarc
+Visitable areas tree:
+{(0, 0): {(1, 0)}, (1, 0): {(1, 1)}, (1, 1): {(1, 2), (2, 0), (1, 3), (1, 1)}, (2, 0): {(1, 1)}, (1, 2): {(1, 1)}, (1, 3): {(1, 1)}}
+
+Loading: DX\Course\7-23.sarc
+Visitable areas tree:
+{(0, 0): {(0, 1), (1, 0)}, (0, 1): {(0, 0)}, (1, 0): {(2, 0)}, (2, 0): set()}
+
+Loading: DX\Course\7-3.sarc
+Visitable areas tree:
+{(0, 0): {(0, 1)}, (0, 1): {(0, 0)}}
+
+Loading: DX\Course\7-32.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: DX\Course\7-33.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: DX\Course\7-34.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: DX\Course\7-37.sarc
+Visitable areas tree:
+{(0, 0): {(0, 1)}, (0, 1): {(1, 0)}, (1, 0): set()}
+Unvisitable areas:
+(1, 1)
+
+Loading: DX\Course\7-4.sarc
+Visitable areas tree:
+{(0, 0): {(1, 0), (0, 0)}, (1, 0): {(0, 0)}}
+
+Loading: DX\Course\7-5.sarc
+Visitable areas tree:
+{(0, 0): {(1, 0)}, (1, 0): set()}
+
+Loading: DX\Course\7-55.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: DX\Course\7-6.sarc
+Visitable areas tree:
+{(0, 0): {(0, 1)}, (0, 1): {(0, 2)}, (0, 2): set()}
+
+Loading: DX\Course\8-1.sarc
+Visitable areas tree:
+{(0, 0): {(0, 2)}, (0, 2): set()}
+Unvisitable areas:
+(0, 1)
+
+Loading: DX\Course\8-2.sarc
+Visitable areas tree:
+{(0, 0): {(0, 2)}, (0, 2): set()}
+
+Loading: DX\Course\8-3.sarc
+Visitable areas tree:
+{(0, 0): {(0, 2), (1, 1)}, (0, 2): {(0, 0)}, (1, 1): set()}
+
+Loading: DX\Course\8-4.sarc
+Visitable areas tree:
+{(0, 0): {(1, 0)}, (1, 0): set()}
+
+Loading: DX\Course\8-42.sarc
+Visitable areas tree:
+{(0, 0): {(1, 1)}, (1, 1): {(2, 0)}, (2, 0): set()}
+
+Loading: DX\Course\8-43.sarc
+Visitable areas tree:
+{(0, 0): {(0, 1)}, (0, 1): {(1, 0)}, (1, 0): {(2, 0)}, (2, 0): {(3, 1)}, (3, 1): set()}
+
+Loading: DX\Course\9-1.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: DX\Course\9-2.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: DX\Course\9-3.sarc
+Visitable areas tree:
+{(0, 0): {(1, 0)}, (1, 0): {(0, 0)}}
+
+Loading: DX\Course\9-4.sarc
+Visitable areas tree:
+{(0, 0): {(1, 0)}, (1, 0): {(0, 0), (1, 1)}, (1, 1): {(1, 0)}}
+
+Loading: DX\Course\9-5.sarc
+Visitable areas tree:
+{(0, 0): {(1, 1)}, (1, 1): {(0, 0)}}
+
+Loading: DX\Course\9-6.sarc
+Visitable areas tree:
+{(0, 0): {(2, 0), (1, 0)}, (1, 0): {(1, 2), (1, 1)}, (1, 2): set(), (1, 1): {(1, 0)}, (2, 0): {(0, 0)}}
+
+Loading: DX\Course\9-7.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: DX\Course\9-8.sarc
+Visitable areas tree:
+{(0, 0): {(0, 1), (1, 0)}, (1, 0): set(), (0, 1): {(0, 0)}}
+
+Loading: DX\Course\9-9.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: DX\RDashRes\Course\1-1.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: DX\RDashRes\Course\1-13.sarc
+Warning: Trying to visit file 1 nextGoto 8, but nextGoto does not exist!
+Visitable areas tree:
+{(0, 0): {(1, 0)}, (1, 0): {(0, 0)}}
+
+Loading: DX\RDashRes\Course\1-2.sarc
+Visitable areas tree:
+{(0, 0): {(1, 0)}, (1, 0): {(0, 1), (0, 0)}, (0, 1): set()}
+
+Loading: DX\RDashRes\Course\1-21.sarc
+Visitable areas tree:
+{(0, 0): {(1, 0)}, (1, 0): set()}
+
+Loading: DX\RDashRes\Course\1-23.sarc
+Visitable areas tree:
+{(0, 0): {(0, 1), (1, 0)}, (0, 1): {(0, 0)}, (1, 0): {(2, 0)}, (2, 0): set()}
+
+Loading: DX\RDashRes\Course\1-25.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: DX\RDashRes\Course\1-26.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: DX\RDashRes\Course\1-27.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: DX\RDashRes\Course\1-28.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: DX\RDashRes\Course\1-29.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: DX\RDashRes\Course\1-3.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: DX\RDashRes\Course\1-30.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: DX\RDashRes\Course\1-31.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: DX\RDashRes\Course\1-32.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: DX\RDashRes\Course\1-33.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: DX\RDashRes\Course\1-34.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: DX\RDashRes\Course\1-39.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: DX\RDashRes\Course\1-4.sarc
+Visitable areas tree:
+{(0, 0): {(0, 1)}, (0, 1): {(0, 0)}}
+
+Loading: DX\RDashRes\Course\1-41.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: DX\RDashRes\Course\1-46.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: DX\RDashRes\Course\1-47.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: DX\RDashRes\Course\1-48.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: DX\RDashRes\Course\1-49.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: DX\RDashRes\Course\1-5.sarc
+Visitable areas tree:
+{(0, 0): {(1, 0)}, (1, 0): {(0, 0)}}
+
+Loading: DX\RDashRes\Course\1-55.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: DX\RDashRes\Course\1-58.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: DX\RDashRes\Course\2-1.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: DX\RDashRes\Course\2-14.sarc
+Visitable areas tree:
+{(0, 0): {(0, 1)}, (0, 1): set()}
+
+Loading: DX\RDashRes\Course\2-2.sarc
+Visitable areas tree:
+{(0, 0): {(1, 0)}, (1, 0): {(0, 0)}}
+
+Loading: DX\RDashRes\Course\2-21.sarc
+Visitable areas tree:
+{(0, 0): {(1, 0)}, (1, 0): set()}
+
+Loading: DX\RDashRes\Course\2-23.sarc
+Visitable areas tree:
+{(0, 0): {(1, 0)}, (1, 0): {(2, 0)}, (2, 0): set()}
+
+Loading: DX\RDashRes\Course\2-25.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: DX\RDashRes\Course\2-26.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: DX\RDashRes\Course\2-27.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: DX\RDashRes\Course\2-28.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: DX\RDashRes\Course\2-3.sarc
+Visitable areas tree:
+{(0, 0): {(1, 0)}, (1, 0): {(0, 0)}}
+
+Loading: DX\RDashRes\Course\2-32.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: DX\RDashRes\Course\2-33.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: DX\RDashRes\Course\2-34.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: DX\RDashRes\Course\2-4.sarc
+Visitable areas tree:
+{(0, 0): {(0, 1), (1, 0), (2, 2)}, (0, 1): {(0, 0)}, (1, 0): set(), (2, 2): {(0, 0)}}
+
+Loading: DX\RDashRes\Course\2-5.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: DX\RDashRes\Course\2-55.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: DX\RDashRes\Course\2-56.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: DX\RDashRes\Course\2-57.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: DX\RDashRes\Course\2-6.sarc
+Visitable areas tree:
+{(0, 0): {(1, 0)}, (1, 0): {(0, 0)}}
+
+Loading: DX\RDashRes\Course\3-1.sarc
+Visitable areas tree:
+{(0, 0): {(1, 0)}, (1, 0): {(0, 0)}}
+
+Loading: DX\RDashRes\Course\3-15.sarc
+Visitable areas tree:
+{(0, 0): {(1, 0)}, (1, 0): set()}
+
+Loading: DX\RDashRes\Course\3-2.sarc
+Visitable areas tree:
+{(0, 0): {(1, 0)}, (1, 0): {(0, 0)}}
+
+Loading: DX\RDashRes\Course\3-20.sarc
+Visitable areas tree:
+{(0, 0): {(1, 0)}, (1, 0): {(0, 1), (0, 2)}, (0, 1): set(), (0, 2): set()}
+
+Loading: DX\RDashRes\Course\3-21.sarc
+Visitable areas tree:
+{(0, 0): {(1, 0)}, (1, 0): set()}
+
+Loading: DX\RDashRes\Course\3-23.sarc
+Visitable areas tree:
+{(0, 0): {(0, 1), (0, 3)}, (0, 3): {(0, 2)}, (0, 2): {(1, 0)}, (1, 0): {(2, 0)}, (2, 0): set(), (0, 1): {(0, 2)}}
+
+Loading: DX\RDashRes\Course\3-25.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: DX\RDashRes\Course\3-3.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: DX\RDashRes\Course\3-32.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: DX\RDashRes\Course\3-33.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: DX\RDashRes\Course\3-34.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: DX\RDashRes\Course\3-4.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: DX\RDashRes\Course\3-5.sarc
+Visitable areas tree:
+{(0, 0): {(1, 0)}, (1, 0): {(0, 0)}}
+
+Loading: DX\RDashRes\Course\3-55.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: DX\RDashRes\Course\4-1.sarc
+Visitable areas tree:
+{(0, 0): {(0, 1)}, (0, 1): set()}
+
+Loading: DX\RDashRes\Course\4-16.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: DX\RDashRes\Course\4-2.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: DX\RDashRes\Course\4-20.sarc
+Visitable areas tree:
+{(0, 0): {(1, 0), (1, 1)}, (1, 0): set(), (1, 1): set()}
+
+Loading: DX\RDashRes\Course\4-21.sarc
+Warning: Trying to visit file 0 nextGoto 1, but nextGoto does not exist!
+Visitable areas tree:
+{(0, 0): {(1, 0)}, (1, 0): set()}
+
+Loading: DX\RDashRes\Course\4-23.sarc
+Visitable areas tree:
+{(0, 0): {(1, 0)}, (1, 0): {(2, 0)}, (2, 0): set()}
+
+Loading: DX\RDashRes\Course\4-3.sarc
+Visitable areas tree:
+{(0, 0): {(0, 2)}, (0, 2): {(0, 0)}}
+
+Loading: DX\RDashRes\Course\4-32.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: DX\RDashRes\Course\4-33.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: DX\RDashRes\Course\4-34.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: DX\RDashRes\Course\4-4.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: DX\RDashRes\Course\4-5.sarc
+Visitable areas tree:
+{(0, 0): {(1, 0)}, (1, 0): {(0, 0)}}
+
+Loading: DX\RDashRes\Course\4-55.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: DX\RDashRes\Course\4-56.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: DX\RDashRes\Course\4-57.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: DX\RDashRes\Course\5-1.sarc
+Visitable areas tree:
+{(0, 0): {(0, 1)}, (0, 1): {(0, 0), (0, 2)}, (0, 2): set()}
+
+Loading: DX\RDashRes\Course\5-17.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: DX\RDashRes\Course\5-2.sarc
+Visitable areas tree:
+{(0, 0): {(1, 0)}, (1, 0): set()}
+
+Loading: DX\RDashRes\Course\5-20.sarc
+Visitable areas tree:
+{(0, 0): {(1, 0), (1, 1)}, (1, 0): set(), (1, 1): set()}
+
+Loading: DX\RDashRes\Course\5-21.sarc
+Visitable areas tree:
+{(0, 0): {(1, 0)}, (1, 0): set()}
+
+Loading: DX\RDashRes\Course\5-23.sarc
+Visitable areas tree:
+{(0, 0): {(1, 0)}, (1, 0): {(2, 0)}, (2, 0): set()}
+
+Loading: DX\RDashRes\Course\5-3.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: DX\RDashRes\Course\5-32.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: DX\RDashRes\Course\5-33.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: DX\RDashRes\Course\5-34.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: DX\RDashRes\Course\5-37.sarc
+Visitable areas tree:
+{(0, 0): {(1, 0)}, (1, 0): set()}
+
+Loading: DX\RDashRes\Course\5-4.sarc
+Visitable areas tree:
+{(0, 0): {(0, 2)}, (0, 2): set()}
+
+Loading: DX\RDashRes\Course\5-5.sarc
+Visitable areas tree:
+{(0, 0): {(1, 0)}, (1, 0): {(0, 1), (0, 2)}, (0, 2): {(0, 1)}, (0, 1): set()}
+
+Loading: DX\RDashRes\Course\5-55.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: DX\RDashRes\Course\5-56.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: DX\RDashRes\Course\5-6.sarc
+Visitable areas tree:
+{(0, 0): {(1, 0)}, (1, 0): {(0, 0)}}
+
+Loading: DX\RDashRes\Course\5-7.sarc
+Visitable areas tree:
+{(0, 0): {(0, 1)}, (0, 1): {(1, 1)}, (1, 1): set()}
+
+Loading: DX\RDashRes\Course\6-1.sarc
+Visitable areas tree:
+{(0, 0): {(0, 1)}, (0, 1): {(0, 0)}}
+
+Loading: DX\RDashRes\Course\6-2.sarc
+Visitable areas tree:
+{(0, 0): {(1, 0)}, (1, 0): {(0, 0)}}
+
+Loading: DX\RDashRes\Course\6-21.sarc
+Visitable areas tree:
+{(0, 0): {(0, 1), (1, 0), (0, 2)}, (0, 1): {(0, 0)}, (0, 2): {(0, 0), (2, 4)}, (1, 0): set(), (2, 4): set()}
+
+Loading: DX\RDashRes\Course\6-22.sarc
+Visitable areas tree:
+{(0, 0): {(1, 0)}, (1, 0): set()}
+
+Loading: DX\RDashRes\Course\6-23.sarc
+Visitable areas tree:
+{(0, 0): {(3, 0)}, (3, 0): {(1, 0)}, (1, 0): set()}
+Unvisitable areas:
+(2, 0)
+
+Loading: DX\RDashRes\Course\6-3.sarc
+Visitable areas tree:
+{(0, 0): {(0, 2)}, (0, 2): set()}
+
+Loading: DX\RDashRes\Course\6-4.sarc
+Visitable areas tree:
+{(0, 0): {(1, 6)}, (1, 6): set()}
+
+Loading: DX\RDashRes\Course\6-5.sarc
+Visitable areas tree:
+{(0, 0): {(0, 1)}, (0, 1): {(0, 0)}}
+
+Loading: DX\RDashRes\Course\6-6.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: DX\RDashRes\Course\6-7.sarc
+Visitable areas tree:
+{(0, 0): {(1, 0)}, (1, 0): {(0, 0)}}
+
+Loading: DX\RDashRes\Course\7-1.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: DX\RDashRes\Course\7-2.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: DX\RDashRes\Course\7-20.sarc
+Visitable areas tree:
+{(0, 0): {(1, 0), (1, 1)}, (1, 1): set(), (1, 0): set()}
+
+Loading: DX\RDashRes\Course\7-21.sarc
+Warning: File 1, area 0: NextGoto 0 leads to the same file, but uses file ID explicitly instead of 0.
+Warning: Trying to visit file 1 nextGoto 6, but nextGoto does not exist!
+Visitable areas tree:
+{(0, 0): {(0, 1)}, (0, 1): {(1, 0)}, (1, 0): set()}
+
+Loading: DX\RDashRes\Course\7-23.sarc
+Visitable areas tree:
+{(0, 0): {(1, 0)}, (1, 0): {(2, 0)}, (2, 0): set()}
+
+Loading: DX\RDashRes\Course\7-3.sarc
+Visitable areas tree:
+{(0, 0): {(0, 1), (0, 2)}, (0, 1): {(0, 0)}, (0, 2): {(0, 0)}}
+
+Loading: DX\RDashRes\Course\7-32.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: DX\RDashRes\Course\7-33.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: DX\RDashRes\Course\7-34.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: DX\RDashRes\Course\7-37.sarc
+Visitable areas tree:
+{(0, 0): set()}
+Unvisitable areas:
+(0, 1)
+(1, 0)
+(1, 1)
+
+Loading: DX\RDashRes\Course\7-4.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: DX\RDashRes\Course\7-5.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: DX\RDashRes\Course\7-55.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: DX\RDashRes\Course\7-6.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: DX\RDashRes\Course\8-1.sarc
+Visitable areas tree:
+{(0, 0): {(0, 1)}, (0, 1): set()}
+
+Loading: DX\RDashRes\Course\8-2.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: DX\RDashRes\Course\8-3.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: DX\RDashRes\Course\8-4.sarc
+Visitable areas tree:
+{(0, 0): {(0, 1), (1, 0)}, (1, 0): set(), (0, 1): {(0, 0)}}
+
+Loading: DX\RDashRes\Course\8-42.sarc
+Visitable areas tree:
+{(0, 0): {(1, 0)}, (1, 0): {(2, 0)}, (2, 0): set()}
+
+Loading: DX\RDashRes\Course\8-43.sarc
+Visitable areas tree:
+{(0, 0): {(0, 1)}, (0, 1): {(1, 0)}, (1, 0): {(2, 0)}, (2, 0): {(3, 1)}, (3, 1): set()}
+
+Loading: DX\RDashRes\Course\9-1.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: DX\RDashRes\Course\9-2.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: DX\RDashRes\Course\9-3.sarc
+Visitable areas tree:
+{(0, 0): {(1, 0)}, (1, 0): {(0, 0)}}
+
+Loading: DX\RDashRes\Course\9-4.sarc
+Visitable areas tree:
+{(0, 0): {(1, 0)}, (1, 0): {(0, 0)}}
+
+Loading: DX\RDashRes\Course\9-5.sarc
+Visitable areas tree:
+{(0, 0): {(0, 1)}, (0, 1): {(0, 0)}}
+
+Loading: DX\RDashRes\Course\9-6.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: DX\RDashRes\Course\9-7.sarc
+Visitable areas tree:
+{(0, 0): set()}
+
+Loading: DX\RDashRes\Course\9-8.sarc
+Visitable areas tree:
+{(0, 0): {(1, 0)}, (1, 0): set()}
+
+Loading: DX\RDashRes\Course\9-9.sarc
+Visitable areas tree:
+{(0, 0): {(1, 0)}, (1, 0): set()}
+
