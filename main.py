@@ -37,8 +37,8 @@ def now() -> str:
 
 
 def AreaContainsNextGoto(area: AreaData, nextGoto: NextGoto, iAreaID: int) -> bool:
-    return (area.offset__x <= nextGoto.offset__x <= area.offset__x + area.size__x and \
-            area.offset__y <= nextGoto.offset__y <= area.offset__y + area.size__y) or nextGoto.area == iAreaID
+    return (area.offset__x - 8*16 <= nextGoto.offset__x <= area.offset__x + area.size__x + 8*16 and \
+            area.offset__y - 8*16 <= nextGoto.offset__y <= area.offset__y + area.size__y + 8*16) or nextGoto.area == iAreaID
 
 
 def FindContainmentArea(file: CourseDataFile, nextGoto: NextGoto) -> Optional[AreaData]:
@@ -114,7 +114,20 @@ def explore_area(areas: TAreaGraph, areaID: TAreaID) -> None:
             if dstAreaID is not None:
                 adjacency.add(dstAreaID)
 
-        if actor.type == 497:
+        elif actor.type == 432 and (actor.settings_0 & 0xF) == 1:
+            dstFile = actor.settings_0 >> 4 & 0xF
+            if dstFile <= 0:
+                dstFile = areaID[0]
+            else:
+                dstFile -= 1
+                # if dstFile == areaID[0]:
+                #     warn("File %d, area %d: Bowser Jr. Controller leads to the same file, but uses file ID explicitly instead of 0." % areaID)
+
+            dstAreaID = explore_nextGoto(areas, (dstFile, actor.settings_0 >> 8 & 0xFF))
+            if dstAreaID is not None:
+                adjacency.add(dstAreaID)
+
+        elif actor.type == 497:
             dstFile = actor.settings_0 & 0xFF
             if dstFile <= 0:
                 dstFile = areaID[0]

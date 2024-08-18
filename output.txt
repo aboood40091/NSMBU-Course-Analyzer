@@ -700,9 +700,7 @@ Visitable areas graph:
 
 Loading: SARC\7-37.sarc
 Visitable areas graph:
-{(0, 0): {(0, 1)}, (0, 1): {(1, 0)}, (1, 0): set()}
-Unvisitable areas:
-(1, 1)
+{(0, 0): {(0, 1)}, (0, 1): {(1, 0)}, (1, 0): {(1, 1)}, (1, 1): set()}
 
 Loading: SARC\7-4.sarc
 Visitable areas graph:
@@ -949,7 +947,7 @@ Visitable areas graph:
 
 Loading: SARC-RDash\2-4.sarc
 Visitable areas graph:
-{(0, 0): {(0, 1), (1, 0), (2, 2)}, (0, 1): {(0, 0)}, (1, 0): set(), (2, 2): {(0, 0)}}
+{(0, 0): {(0, 1), (1, 0), (2, 2)}, (0, 1): {(0, 0)}, (1, 0): {(0, 0)}, (2, 2): {(0, 0)}}
 
 Loading: SARC-RDash\2-5.sarc
 Visitable areas graph:
@@ -1252,11 +1250,7 @@ Visitable areas graph:
 
 Loading: SARC-RDash\7-37.sarc
 Visitable areas graph:
-{(0, 0): set()}
-Unvisitable areas:
-(0, 1)
-(1, 0)
-(1, 1)
+{(0, 0): {(0, 1)}, (0, 1): {(1, 0)}, (1, 0): {(1, 1)}, (1, 1): set()}
 
 Loading: SARC-RDash\7-4.sarc
 Visitable areas graph:
@@ -2515,9 +2509,7 @@ Visitable areas graph:
 
 Loading: DX\Course\7-37.sarc
 Visitable areas graph:
-{(0, 0): {(0, 1)}, (0, 1): {(1, 0)}, (1, 0): set()}
-Unvisitable areas:
-(1, 1)
+{(0, 0): {(0, 1)}, (0, 1): {(1, 0)}, (1, 0): {(1, 1)}, (1, 1): set()}
 
 Loading: DX\Course\7-4.sarc
 Visitable areas graph:
@@ -2756,7 +2748,7 @@ Visitable areas graph:
 
 Loading: DX\RDashRes\Course\2-4.sarc
 Visitable areas graph:
-{(0, 0): {(0, 1), (1, 0), (2, 2)}, (0, 1): {(0, 0)}, (1, 0): set(), (2, 2): {(0, 0)}}
+{(0, 0): {(0, 1), (1, 0), (2, 2)}, (0, 1): {(0, 0)}, (1, 0): {(0, 0)}, (2, 2): {(0, 0)}}
 
 Loading: DX\RDashRes\Course\2-5.sarc
 Visitable areas graph:
@@ -3045,11 +3037,7 @@ Visitable areas graph:
 
 Loading: DX\RDashRes\Course\7-37.sarc
 Visitable areas graph:
-{(0, 0): set()}
-Unvisitable areas:
-(0, 1)
-(1, 0)
-(1, 1)
+{(0, 0): {(0, 1)}, (0, 1): {(1, 0)}, (1, 0): {(1, 1)}, (1, 1): set()}
 
 Loading: DX\RDashRes\Course\7-4.sarc
 Visitable areas graph:
