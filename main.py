@@ -7,7 +7,7 @@ from courseData import CourseData, CD_FILE_MAX_NUM, NextGoto, AreaData, CourseDa
 
 TAreaID = Tuple[int, int]
 TNextGotoID = Tuple[int, int]
-TAreaTree = Dict[TAreaID, Set[TAreaID]]
+TAreaGraph = Dict[TAreaID, Set[TAreaID]]
 
 
 logBuffer = []
@@ -54,7 +54,7 @@ explored_nextGoto: Set[TNextGotoID] = set()
 isCoinOrBoost = False
 
 
-def explore_area(areas: TAreaTree, areaID: TAreaID) -> None:
+def explore_area(areas: TAreaGraph, areaID: TAreaID) -> None:
     if areaID in areas:
         adjacency = areas[areaID]
     else:
@@ -132,7 +132,7 @@ def explore_area(areas: TAreaTree, areaID: TAreaID) -> None:
                 warn("Trying to visit file %d through Final Bowser, but file does not exist!" % dstFile)
 
 
-def explore_nextGoto(areas: TAreaTree, nextGotoID: TNextGotoID, suppress_warn: bool = False) -> Optional[TAreaID]:
+def explore_nextGoto(areas: TAreaGraph, nextGotoID: TNextGotoID, suppress_warn: bool = False) -> Optional[TAreaID]:
     if nextGotoID in explored_nextGoto:
         return
 
@@ -160,12 +160,12 @@ def explore_nextGoto(areas: TAreaTree, nextGotoID: TNextGotoID, suppress_warn: b
     return dstAreaID
 
 
-def findVisitableAreas() -> Tuple[TAreaTree, Optional[TAreaTree]]:
+def findVisitableAreas() -> Tuple[TAreaGraph, Optional[TAreaGraph]]:
     global explored_nextGoto
     global isCoinOrBoost
 
-    visitable_areas: TAreaTree = {}
-    visitable_areas_cb: Optional[TAreaTree] = None
+    visitable_areas: TAreaGraph = {}
+    visitable_areas_cb: Optional[TAreaGraph] = None
     
     for i in range(CD_FILE_MAX_NUM):
         file = CourseData.getCourseDataFile(i)
@@ -200,7 +200,7 @@ def findVisitableAreas() -> Tuple[TAreaTree, Optional[TAreaTree]]:
     return visitable_areas, visitable_areas_cb
 
 
-def findUnvisitableAreas(visitable_areas: TAreaTree) -> List[TAreaID]:
+def findUnvisitableAreas(visitable_areas: TAreaGraph) -> List[TAreaID]:
     ret: List[TAreaID] = []
 
     for fileID in range(CD_FILE_MAX_NUM):
@@ -223,7 +223,7 @@ def scanPath(path: str, isNSMBUDX: bool) -> None:
         CourseData.loadFromPack(file_path, isNSMBUDX)
         visitable_areas, visitable_areas_cb = findVisitableAreas()
         if visitable_areas:
-            log("Visitable areas tree:")
+            log("Visitable areas graph:")
             log(visitable_areas)
         else:
             warn("Course not even enterable through start_next_goto!")
