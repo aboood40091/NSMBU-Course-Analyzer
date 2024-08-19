@@ -594,6 +594,8 @@ Visitable areas graph:
 Loading: SARC\5-37.sarc
 Visitable areas graph:
 {(0, 0): {(0, 1)}, (0, 1): {(1, 0)}, (1, 0): set()}
+Visitable areas graph in Coin Battle and Boost Rush specifically:
+{(0, 0): {(0, 1)}, (0, 1): {(1, 0)}, (1, 0): set()}
 
 Loading: SARC\5-4.sarc
 Visitable areas graph:
@@ -1142,6 +1144,8 @@ Visitable areas graph:
 
 Loading: SARC-RDash\5-37.sarc
 Visitable areas graph:
+{(0, 0): {(1, 0)}, (1, 0): set()}
+Visitable areas graph in Coin Battle and Boost Rush specifically:
 {(0, 0): {(1, 0)}, (1, 0): set()}
 
 Loading: SARC-RDash\5-4.sarc
@@ -2253,7 +2257,7 @@ Visitable areas graph:
 
 Loading: DX\Course\49-26.sarc
 Warning: Trying to visit file 0 nextGoto 1, but nextGoto does not exist!
-Warning: Course not even enterable through start_next_goto!
+Warning: Course not even enterable!
 Unvisitable areas:
 (0, 0)
 
@@ -2264,7 +2268,7 @@ Visitable areas graph:
 
 Loading: DX\Course\49-28.sarc
 Warning: Trying to visit file 0 nextGoto 1, but nextGoto does not exist!
-Warning: Course not even enterable through start_next_goto!
+Warning: Course not even enterable!
 Unvisitable areas:
 (0, 0)
 
@@ -2350,6 +2354,8 @@ Visitable areas graph:
 
 Loading: DX\Course\5-37.sarc
 Visitable areas graph:
+{(0, 0): {(0, 1)}, (0, 1): {(1, 0)}, (1, 0): set()}
+Visitable areas graph in Coin Battle and Boost Rush specifically:
 {(0, 0): {(0, 1)}, (0, 1): {(1, 0)}, (1, 0): set()}
 
 Loading: DX\Course\5-4.sarc
@@ -2929,6 +2935,8 @@ Visitable areas graph:
 
 Loading: DX\RDashRes\Course\5-37.sarc
 Visitable areas graph:
+{(0, 0): {(1, 0)}, (1, 0): set()}
+Visitable areas graph in Coin Battle and Boost Rush specifically:
 {(0, 0): {(1, 0)}, (1, 0): set()}
 
 Loading: DX\RDashRes\Course\5-4.sarc

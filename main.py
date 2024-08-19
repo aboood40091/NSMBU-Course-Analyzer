@@ -1,18 +1,24 @@
 from time import gmtime, strftime
 import os
-from typing import Tuple, Dict, Set, Optional, List
+from typing import Tuple, Dict, Set, Optional, List, Hashable, Collection, Sequence
 
 from courseData import CourseData, CD_FILE_MAX_NUM, NextGoto, AreaData, CourseDataFile
+
+import networkx as nx
+import matplotlib.pyplot as plt
 
 
 TAreaID = Tuple[int, int]
 TNextGotoID = Tuple[int, int]
 TAreaGraph = Dict[TAreaID, Set[TAreaID]]
 
+TGenericGraph = Dict[Hashable, Collection[Hashable]]
+
 
 logBuffer = []
 logToFile = True
 enableTestLog = False
+enableGraphDraw = True
 
 
 def warn(*args) -> None:
@@ -34,6 +40,40 @@ def log(*args) -> None:
 
 def now() -> str:
     return strftime("%Y-%m-%d %H.%M.%S", gmtime())
+
+
+def draw_graph(graph_dict: TGenericGraph, out_fname: str, *, node_list: Optional[Sequence[Hashable]] = None, root_node: Optional[Hashable] = None, format: Optional[str] = 'png') -> None:
+    if not graph_dict:
+        return
+
+    # Create a graph object
+    G = nx.DiGraph()
+
+    # Add all nodes first to ensure they are in the graph
+    if node_list is None:
+        node_list = list(graph_dict.keys())
+    for node in node_list:
+        G.add_node(node)
+
+    # Add nodes and edges from the dictionary
+    for node, neighbors in graph_dict.items():
+        for neighbor in neighbors:
+            G.add_edge(node, neighbor)
+
+    if root_node is None:
+        root_node = node_list[0]
+
+    # Draw the graph
+    pos = nx.shell_layout(G)  # Layout for visualization
+    ## Draw all nodes and edges
+    nx.draw(G, pos, with_labels=True, node_color='lightblue', node_size=2000, font_size=15, font_weight='bold', edge_color='gray')
+    ## Draw the root node with an extra circle
+    nx.draw_networkx_nodes(G, pos, nodelist=[root_node], node_color='lightgreen', node_size=2200, edgecolors='black')
+    if out_fname:
+        plt.savefig(out_fname, format=format)
+    else:
+        plt.show()
+    plt.close()
 
 
 def AreaContainsNextGoto(area: AreaData, nextGoto: NextGoto, iAreaID: int) -> bool:
@@ -231,23 +271,33 @@ def findUnvisitableAreas(visitable_areas: TAreaGraph) -> List[TAreaID]:
 
 def scanPath(path: str, isNSMBUDX: bool) -> None:
     for fname in os.listdir(path):
+        if not fname.endswith('.sarc'):
+            continue
+
         file_path = os.path.join(path, fname)
         log("Loading:", file_path)
         CourseData.loadFromPack(file_path, isNSMBUDX)
+
         visitable_areas, visitable_areas_cb = findVisitableAreas()
+
         if visitable_areas:
             log("Visitable areas graph:")
             log(visitable_areas)
         else:
-            warn("Course not even enterable through start_next_goto!")
-        if visitable_areas_cb is not None and not visitable_areas_cb:
-            warn("Course not even enterable through start_next_goto_coin_boost!")
+            warn("Course not even enterable!")
+
+        if visitable_areas_cb is not None:
+            if visitable_areas_cb:
+                log("Visitable areas graph in Coin Battle and Boost Rush specifically:")
+                log(visitable_areas_cb)
+            else:
+                warn("Course not even enterable in Coin Battle and Boost Rush specifically!")
 
         unvisitable_areas = findUnvisitableAreas(visitable_areas)
         if visitable_areas_cb is not None:
             unvisitable_areas_cb = findUnvisitableAreas(visitable_areas_cb)
         else:
-            unvisitable_areas_cb = None
+            unvisitable_areas_cb = []
 
         if unvisitable_areas:
             log("Unvisitable areas:")
@@ -256,6 +306,14 @@ def scanPath(path: str, isNSMBUDX: bool) -> None:
         if unvisitable_areas_cb:
             log("Unvisitable areas in Coin Battle and Boost Rush specifically:")
             log('\n'.join(map(str, unvisitable_areas_cb)))
+
+        if visitable_areas:
+            if enableGraphDraw:
+                draw_graph(visitable_areas, file_path + '.png', node_list=list(visitable_areas.keys()) + unvisitable_areas)
+
+        if visitable_areas_cb:
+            if enableGraphDraw:
+                draw_graph(visitable_areas_cb, file_path + '_Coin_Boost.png', node_list=list(visitable_areas_cb.keys()) + unvisitable_areas_cb)
 
         log()
 
